@@ -1,0 +1,93 @@
+.NamozTimeUiCardContener {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px 50px;
+  background-color: #f2f3f4;
+  /* width: 100%; */
+  height: 90vh;
+  margin: 20px;
+}
+.NamozTimeUiCard {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 20px 30px;
+  height: 85%;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(197, 197, 197, 0.575);
+}
+.Box {
+  background-color: #ffffff;
+  box-shadow: 0 4px 5px rgba(197, 197, 197, 0.575);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  justify-content: space-between;
+}
+.Box img {
+  width: 160px;
+  height: 160px;
+}
+.BoxText {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+.BoxText h1 {
+  font-size: 27px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.BoxText h2 {
+  font-size: 46px;
+  color: rgb(153, 255, 0);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: cursive;
+}
+.BoxText h3 {
+  font-size: 17px;
+  color: #8f8f8f;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: normal;
+}
+.NamozTimeUiCardTop {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 12px 30px;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(197, 197, 197, 0.575);
+}
+.Card1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.Card2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  border: 2px solid rgba(155, 155, 155, 0.541);
+  border-radius: 10px;
+}
+b {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}

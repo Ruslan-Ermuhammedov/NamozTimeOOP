@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "name": "Sarvar",
+      "email": "Sarvar@gmail.ru",
+      "tel": "+99988343766",
+      "parol": "2006",
+      "id": 1
+    },
+    {
+      "nama": "Ruslan",
+      "email": "Ruslan@gmail.ru",
+      "tel": "+9999863257",
+      "parol": "4687",
+      "id": 2
+    }
+  
+  ],
+  "massages": [],
+  "products": []
+}

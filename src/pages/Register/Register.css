@@ -1,0 +1,29 @@
+.RegisterForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: #f0f0f09f;
+    box-shadow: 0 0 3px 1px rgb(205, 205, 205);
+    width: 400px;
+    margin:30px auto;
+    height: 430px;
+    padding: 40px;
+    border-radius: 20px;
+    }
+    .RegisterForm input{
+        padding: 15px;
+        width: 100%;
+        border-radius: 10px;
+        border: none;
+    }
+    .RegisterForm button{
+        width: 60%;
+        padding: 10px ;
+        color: aliceblue;
+        background-color: #0066ff;
+        font-size: 17px;
+        border-radius: 15px;
+        border: none;
+    }
+   
